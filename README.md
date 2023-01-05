@@ -1,4 +1,4 @@
-# CodeChamp - an online code compiler inspired by codechamp
+# CodeChamp - an online code compiler inspired by LeetCode, HackerRank, HackerEarth]
 
 The codebase is split into frontend and backend.
  - [Frontend](https://github.com/DjayChoudhary/codechamp-frontend)  (built using React.js and Typescript)
